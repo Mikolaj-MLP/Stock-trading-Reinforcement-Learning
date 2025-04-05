@@ -7,3 +7,5 @@ yfinance
 torch
 stable-baselines3
 ta
+streamlit
+plotly
