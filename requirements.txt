@@ -1,0 +1,9 @@
+gym
+numpy
+pandas
+matplotlib
+scikit-learn
+yfinance
+torch
+stable-baselines3
+ta
